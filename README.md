@@ -33,3 +33,12 @@ sudo pacman -S --needed git base-devel
 yay -S mangowc-git
 
 curl -sSL [https://raw.githubusercontent.com/solar23040/mangowc-rice/main/fetch_dots.sh](https://raw.githubusercontent.com/solar23040/mangowc-rice/main/fetch_dots.sh) | bash
+
+PREREQUISITES
+
+rofi
+mango
+yay
+curl
+kitty
+
