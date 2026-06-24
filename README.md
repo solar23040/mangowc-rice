@@ -42,3 +42,8 @@ yay
 curl
 kitty
 
+installation:
+git clone https://github.com/solar23040/mangowc-rice/edit/main/README.md
+cd ~/.config/mango
+chmod +x fetch_dots.sh
+./fetch_dots.sh
